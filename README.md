@@ -22,6 +22,8 @@ The steps of this phase of the project are as follows:<br />
 2)cosine similarity to calculate similarity<br />
 3)champion list and select K best scores<br /><br />
 
+# Built With
+100% python <br /><br />
 
 # Getting Started
 ### Prerequisites
