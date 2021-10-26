@@ -27,8 +27,7 @@ The steps of this phase of the project are as follows:
 ## Prerequisites
 - put data.xlsx in your project path
 - xlrd
-
-`pip install xlrd`
+    `pip install xlrd`
 
 # License
 Distributed under the MIT License. See `LICENSE.txt` for more information
