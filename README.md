@@ -3,7 +3,7 @@ a simple search engine written in python
 
 
 # About This Project
-Phase 1: <br />
+## Phase 1: <br /><br />
 Creating a simple information retrieval model<br />
 In order to create a simple model, it's necessary to index the documents so that when we received the query, the inverse index is used to retrieve the related
 documents.<br />
@@ -12,9 +12,9 @@ The steps of this phase of the project are as follows:<br />
 2)inverted index construction<br />
 3)stopwords elimination, suffixes elimination, lemmatization, stemming (with at least 20 words in each set)<br />
 4)remove words with high frequency<br />
-5)respond user query<br />
+5)respond user query<br /><br /><br />
 
-Phase 2:<br />
+## Phase 2:<br /><br />
 Completing the information retrieval model and provide more advanced functionalities.<br />
 Ranking search results based on their relevance to the user query using vector space and output results are sorted by similarity.<br />
 The steps of this phase of the project are as follows:<br />
@@ -26,7 +26,7 @@ The steps of this phase of the project are as follows:<br />
 # Getting Started
 ## Prerequisites
 - put data.xlsx in your project path
-- xlrd
+- xlrd <br />
     `pip install xlrd`
 
 # License
