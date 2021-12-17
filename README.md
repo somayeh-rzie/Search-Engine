@@ -1,4 +1,4 @@
-# information-retrieval-spr21
+# Search-Engine
 a simple search engine written in python <br />
 
 
